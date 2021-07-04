@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.gunita">
+    package="com.lenteralifes.gunita">
    <application
         android:label="gunita"
         android:icon="@mipmap/ic_launcher">

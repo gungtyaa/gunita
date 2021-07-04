@@ -1,4 +1,4 @@
-package com.example.gunita
+package com.lenteralifes.gunita
 
 import io.flutter.embedding.android.FlutterActivity
 

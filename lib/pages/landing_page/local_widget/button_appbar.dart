@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 class ButtonAppBar extends StatelessWidget {
-  String title;
-  bool isBackgroundColor;
-  Color textColor;
+  final String title;
+  final bool isBackgroundColor;
+  final Color textColor;
 
   ButtonAppBar(
       {required this.title,
